@@ -1,1 +1,6 @@
-{"assets/audios/chat-sound.mp3":["assets/audios/chat-sound.mp3"],"packages/cupertino_icons/assets/CupertinoIcons.ttf":["packages/cupertino_icons/assets/CupertinoIcons.ttf"]}
+{
+  "assets/audios/chat-sound.mp3": ["assets/audios/chat-sound.mp3"],
+  "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
+    "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+  ]
+}
