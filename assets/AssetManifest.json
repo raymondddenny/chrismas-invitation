@@ -1,8 +1,1 @@
-{
-  "assets/audios/chat-sound.mp3": ["assets/audios/chat-sound.mp3"],
-  "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
-    "packages/cupertino_icons/assets/CupertinoIcons.ttf"
-  ],
-  "assets/new_notification_here!.riv": ["assets/new_notification_here!.riv"],
-  "assets/tap.riv": ["assets/tap.riv"]
-}
+{"assets/audios/chat-sound.mp3":["assets/audios/chat-sound.mp3"],"packages/cupertino_icons/assets/CupertinoIcons.ttf":["packages/cupertino_icons/assets/CupertinoIcons.ttf"]}
