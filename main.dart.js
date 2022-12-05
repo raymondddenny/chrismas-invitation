@@ -39499,7 +39499,7 @@ if(r==null)r=$.bI=B.N
 s=A.j(this.a).h("eP.T")
 r=r.fQ(0,null,s)
 r.toString
-r.pk(A.a([new A.ei("Hi, Sahabat - sahabat"),new A.ei("Ada acara seru nih!"),new A.ei("Kita mau rayain Natal - Komsel Gabungan"),new A.ei("Tanggal 10 Desember 2022"),new A.ei("Pukul 16.00 di graha jasmine, ruangan 2. Untuk Dresscodenya Colorful yaa "),new A.ei("Gak ribet kok, cuma perlu bawa botol minum aja"),new A.ei("Yuukkk, jadikan ini sebagai kesempatan untuk kita bisa ajak rekan2 dan sahabat dalam kebersamaan Natal")],t.n_))
+r.pk(A.a([new A.ei("Hi, Sahabat - sahabat"),new A.ei("Ada acara seru nih!"),new A.ei("Kita mau rayain Natal - Komsel Gabungan"),new A.ei("Tanggal 10 Desember 2022"),new A.ei("Pukul 17.00 di graha jasmine, ruangan 2. \nUntuk Dresscodenya Colorful yaa "),new A.ei("Gak ribet kok, cuma perlu bawa botol minum aja"),new A.ei("Yuukkk, jadikan ini sebagai kesempatan untuk kita bisa ajak rekan2 dan sahabat dalam kebersamaan Natal")],t.n_))
 r=$.bI;(r==null?$.bI=B.N:r).fQ(0,null,s).cy.cM(0)
 r=$.bI;(r==null?$.bI=B.N:r).fQ(0,null,s).ax.a40(2,B.ca,B.f_)},
 $S:0}
